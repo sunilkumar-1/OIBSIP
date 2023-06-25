@@ -9,6 +9,9 @@
   Created a user-friendly todo list application for efficient task management and organization.
 #### Live Project: https://tinyurl.com/to-do-list-pro
 ![Screenshot 2023-06-25 211322](https://github.com/sunilkumar-1/OIBSIP/assets/101737602/c955dfb6-069b-48ee-9fb7-a5708aa44042)
-
   
-4. Tribute-Page Live Project: https://tinyurl.com/TributeWebpage
+## 3. Tribute-Page:
+  Designed and built an engaging tribute page highlighting the accomplishments of a India's greatest poet.  
+#### Live Project: https://tinyurl.com/TributeWebpage
+![Screenshot 2023-06-25 211812](https://github.com/sunilkumar-1/OIBSIP/assets/101737602/66a6cf7b-ca1c-4964-84f0-42386dfe7b38)
+
