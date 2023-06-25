@@ -1,5 +1,5 @@
-## Project Details
-# 1. Calculator:
+# Project Details
+### 1. Calculator:
 
 2.  Live Project: https://tinyurl.com/Calculator-pro
 3. TO-Do-List Live Project: https://tinyurl.com/to-do-list-pro
