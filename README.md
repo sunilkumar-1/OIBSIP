@@ -1,4 +1,4 @@
-# OIBSIP
+## Project Details
 # 1. Calculator:
 
 2.  Live Project: https://tinyurl.com/Calculator-pro
